@@ -5,7 +5,7 @@
 
 
 <!-- Header Section -->
-<div align="center" style="background: linear-gradient(135deg, #FFD700 0%, #FFA500 100%); padding: 40px 20px; border-radius: 10px; margin-bottom: 20px;">
+<div align="center" style="background: linear-gradient(135deg, #FFB347 0%, #FFA500 100%); padding: 40px 20px; border-radius: 10px; margin-bottom: 20px;">
   <h1 style="color: #ffffff; font-size: 3em; margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-shadow: 1px 1px 4px rgba(0,0,0,0.2);">
   Mandana AmeliMojarad 
   </h1>
