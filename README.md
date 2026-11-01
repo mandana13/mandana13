@@ -1,25 +1,36 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#FFD700&height=200&section=header&text=Your%20Name&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  <!-- Animated Mango-Yellow Wave Header (The %23 is required for the color hex code to work) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,10&height=220&section=header&text=Mandana%20AmeliMojarad&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+  
+  <!-- Subtitle placed inside a sleek academic badge -->
+  <p>
+    <img src="https://img.shields.io/badge/Postdoctoral_Researcher-Tehran_University_of_Medical_Sciences-FFB347?style=for-the-badge&logo=academia&logoColor=white" alt="Role" />
+  </p>
+  <p>
+    <strong>Oncology</strong> • <strong>Genetics</strong> • <strong>Computational Biology</strong>
+  </p>
 </div>
 
+---
 
-<!-- Header Section -->
-<div align="center" style="background: linear-gradient(135deg, #FFB347 0%, #FFA500 100%); padding: 40px 20px; border-radius: 10px; margin-bottom: 20px;">
-  <h1 style="color: #ffffff; font-size: 3em; margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-shadow: 1px 1px 4px rgba(0,0,0,0.2);">
-  Mandana AmeliMojarad 
-  </h1>
-  <h3 style="color: #ffffff; margin: 10px 0 0 0; font-weight: 400; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    Postdoctoral Researcher | Oncology • Genetics • Computational Biology
-  </h3>
-</div>
-
-<!-- About Me Section -->
 ### 👋 About Me
 
-I am a Postdoctoral Researcher at **Tehran University of Medical Sciences**, holding a Ph.D. in Oncology. My work bridges the gap between experimental research and computational analysis, focusing on cellular responses to environmental and biological factors. 
+<p align="justify">
+I am a <strong>Postdoctoral Researcher</strong> at <strong>Tehran University of Medical Sciences</strong>, holding a Ph.D. in Oncology. My research elegantly bridges the gap between wet-lab experimental research and dry-lab computational analysis. I focus on decoding the complex cellular responses to environmental and biological factors, aiming to translate these insights into clinical applications.
+</p>
 
-<!-- Research Interests Section -->
+---
+
 ### 🔬 Research Interests
 
-**Cancer Genetics** • **Computational Oncology** • **Functional Genomics** • **Precision Medicine** • **Aging Biology** • **Multi-omics** • **Biomarker Discovery** • **Cellular Ageing and Exposure Biology**
+<div align="center">
+  <img src="https://img.shields.io/badge/Cancer_Genetics-FF8C00?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computational_Oncology-FFA500?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Functional_Genomics-FFB347?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Precision_Medicine-FFD700?style=flat-square&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Aging_Biology-FFA07A?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--omics-FF7F50?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Biomarker_Discovery-FF8C00?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cellular_Ageing_&_Exposure_Biology-FFA500?style=flat-square&logoColor=white" />
+</div>
